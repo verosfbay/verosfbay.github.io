@@ -53,3 +53,7 @@
   .topnav a.active {
     color: white;
   }
+
+  p { display: inline-block;
+    text-align: center;
+    }
